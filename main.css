@@ -1,0 +1,112 @@
+*{
+    
+    font-family: serif;
+    
+    }
+    
+main .produto{
+    padding: 3%;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+main .produto h2{
+    margin-bottom: 2%;
+    font-size: 2.2em;
+}
+main .produto h3{
+    font-size: 1.5em;
+}
+main .produto .techs  a{
+    text-decoration: none;
+    width: 130px;
+    height: 10px;
+    padding: 12px;
+    background-color: #004694;
+    border-radius: 8px;
+   
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+main .produto .techs  a:hover{
+    box-shadow: 0px 0px 0px 5px #00e0ff;
+}
+main .produto p{
+   margin-bottom: 5%;
+   font-size: 1.3em;
+
+}
+main .techs h4{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 1em;
+}
+/*--INFORMACOES--*/
+main .informacoes h2{
+    text-align: center;
+    color: white;
+    padding: 1%;
+}
+main .informacoes{
+    background-color: #222;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  
+    
+
+}
+main .informacoes a, span{
+    text-decoration: none;
+    color: white;
+  
+    
+}
+main .informacoes i{
+    font-size:  1.5em;
+    margin-right: 0.5em; 
+    color: white;
+    
+}
+
+/*--IMAGEM DO CLIMATIZADOR*/
+
+    main figure{
+        display: flex;
+        flex-direction: column;
+        align-items:center ;
+        justify-content:center;
+
+        width: 400px;
+        height: 400px;
+        cursor: pointer;
+        font-size: 1.4em;
+       
+    }
+
+    /*--footer--*/
+
+    main .footer{
+        padding: 2%;
+    }
+   
+
+
+    
+
+
+
+   
+    
+    
+    
+
+    
+
+
+   
