@@ -46,7 +46,8 @@ header i{color: #fff;}
 header span{color: #fff;}
 header nav span{
     
-    margin-right: 3em;}
+   
+    margin-right: 3vw}
 header i:hover{
     color: aqua;
 }
